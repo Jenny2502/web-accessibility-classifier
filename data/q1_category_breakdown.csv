@@ -1,4 +1,5 @@
 violation_category,count,percentage
-Syntax,2634,74.83
-Layout,853,24.23
+Syntax,2634,74.74
+Layout,853,24.21
 Semantic,33,0.94
+Unknown,4,0.11
