@@ -1,4 +1,4 @@
-# AccessGuru Violation Type Predictor
+# Web Accessibility Classifier
 
 This tool trains a model to predict accessibility violation types from HTML and related content, and applies the model to inspect new pages or text.
 
